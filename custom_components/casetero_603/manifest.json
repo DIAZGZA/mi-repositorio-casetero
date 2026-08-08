@@ -1,0 +1,10 @@
+{
+  "domain": "casetero_603",
+  "name": "Línea 603 El Casetero Zaragoza",
+  "documentation": "https://github.com",
+  "dependencies": [],
+  "codeowners": ["@TU_USUARIO"],
+  "requirements": ["requests==2.31.0"],
+  "version": "1.1.0",
+  "config_flow": true
+}
