@@ -1,0 +1,16 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Configurar El Casetero 603",
+        "description": "Introduce el número de poste o parada de autobús de Zaragoza para monitorizar los minutos restantes.",
+        "data": {
+          "stop_id": "Número de Parada / Poste"
+        }
+      }
+    },
+    "error": {
+      "invalid_stop_id": "El número de parada debe contener solo dígitos numéricos."
+    }
+  }
+}
