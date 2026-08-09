@@ -26,7 +26,7 @@ Muestra el tiempo restante o la hora exacta del próximo autobús y almacena tod
 1. Abre **HACS** en tu instancia de Home Assistant.
 2. Ve a la pestaña **Integraciones**.
 3. Haz clic en los tres puntos de la esquina superior derecha y selecciona **Repositorios personalizados**.
-4. Pega la URL de este repositorio: `https://github.com`.
+4. Pega la URL de este repositorio: `https://github.com/DIAZGZA/mi-repositorio-casetero`.
 5. En *Categoría*, selecciona **Integración** y pulsa **Añadir**.
 6. Busca `Línea 603 El Casetero Zaragoza`, haz clic en descargar y **reinicia Home Assistant**.
 
